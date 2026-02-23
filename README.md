@@ -42,6 +42,6 @@ Files Included
 - airline_route_profitability.csv – Dataset used
 
 
-Author
+
 Saban  
 2026
